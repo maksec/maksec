@@ -8,4 +8,7 @@
   <a href="https://t.me/lil_maxec/">
     <img src="https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
+  <a href="https://t.me/lil_maxec/">
+    <img src="https://img.shields.io/badge/VK-black?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
+  </a>
 </div>
