@@ -5,4 +5,7 @@
   <a href="https://www.instagram.com/lil.maxec/">
     <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
+  <a href="https://t.me/lil_maxec/">
+    <img src="https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
 </div>
