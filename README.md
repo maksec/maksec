@@ -3,6 +3,6 @@
 </div>
 <div id="badges">
   <a href="https://www.instagram.com/lil.maxec/">
-    <img src="https://img.shields.io/badge/Instagram-INSTAGRAM-black" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-black?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>
